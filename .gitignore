@@ -1,0 +1,41 @@
+*.dot
+
+# Compiled QML/JS files
+*.qmlc
+*.jsc
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.kdev4
+build/
+obuild/
+release/
+*~
+*.kate-swp
+*-build/
+CMakeLists.txt.user
+
+# QtCreator
+*.creator
+*.creator.user
+
+# vim
+*.sw?
+
+# PyCharm
+.idea
+
+# Python
+__pycache__
+*/__pycache__
